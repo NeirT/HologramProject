@@ -1,10 +1,12 @@
 fileFormatVersion: 2
 guid: 3057bc985a4a7d848a72f90008274857
-timeCreated: 1483543034
-licenseType: Store
 MonoImporter:
+  externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - Square: {instanceID: 0}
+  - TapButton: {fileID: 919132149155446097, guid: 4284788d978cf734bb61ff077a540ea8,
+      type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
